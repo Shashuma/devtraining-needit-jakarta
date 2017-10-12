@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Temp Project Financial Plan" max_length="40" name="x_58872_needit_temp_project_financial_plan" type="collection">
+        <element label="Cost Type" max_length="40" name="cost_type" type="string"/>
+        <element label="Fiscal Year" max_length="40" name="fiscal_year" type="string"/>
+        <element label="Rank" max_length="40" name="rank" type="integer"/>
+    </element>
+</database>
